@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\K22CNT-HL.NET.props" />
+</Project>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\K22CNT-HL.NET.props" />
+</Project>
