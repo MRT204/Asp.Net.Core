@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\NetCoreMVCLab03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE977D1-281B-4CC9-9BE3-821E07F56FD4}|NetCoreMVCLab03.csproj|e:\\netcoremvclab03\\views\\shared\\components\\home\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FAE977D1-281B-4CC9-9BE3-821E07F56FD4}|NetCoreMVCLab03.csproj|solutionrelative:views\\shared\\components\\home\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE977D1-281B-4CC9-9BE3-821E07F56FD4}|NetCoreMVCLab03.csproj|e:\\netcoremvclab03\\views\\viewcomponents\\homeviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE977D1-281B-4CC9-9BE3-821E07F56FD4}|NetCoreMVCLab03.csproj|solutionrelative:views\\viewcomponents\\homeviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE977D1-281B-4CC9-9BE3-821E07F56FD4}|NetCoreMVCLab03.csproj|e:\\netcoremvclab03\\views\\shared\\my_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FAE977D1-281B-4CC9-9BE3-821E07F56FD4}|NetCoreMVCLab03.csproj|solutionrelative:views\\shared\\my_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE977D1-281B-4CC9-9BE3-821E07F56FD4}|NetCoreMVCLab03.csproj|e:\\netcoremvclab03\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FAE977D1-281B-4CC9-9BE3-821E07F56FD4}|NetCoreMVCLab03.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE977D1-281B-4CC9-9BE3-821E07F56FD4}|NetCoreMVCLab03.csproj|e:\\netcoremvclab03\\views\\shared\\banner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FAE977D1-281B-4CC9-9BE3-821E07F56FD4}|NetCoreMVCLab03.csproj|solutionrelative:views\\shared\\banner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE977D1-281B-4CC9-9BE3-821E07F56FD4}|NetCoreMVCLab03.csproj|e:\\netcoremvclab03\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FAE977D1-281B-4CC9-9BE3-821E07F56FD4}|NetCoreMVCLab03.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE977D1-281B-4CC9-9BE3-821E07F56FD4}|NetCoreMVCLab03.csproj|e:\\netcoremvclab03\\views\\home1\\popularhome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FAE977D1-281B-4CC9-9BE3-821E07F56FD4}|NetCoreMVCLab03.csproj|solutionrelative:views\\home1\\popularhome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE977D1-281B-4CC9-9BE3-821E07F56FD4}|NetCoreMVCLab03.csproj|e:\\netcoremvclab03\\views\\home1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FAE977D1-281B-4CC9-9BE3-821E07F56FD4}|NetCoreMVCLab03.csproj|solutionrelative:views\\home1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE977D1-281B-4CC9-9BE3-821E07F56FD4}|NetCoreMVCLab03.csproj|e:\\netcoremvclab03\\views\\home1\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FAE977D1-281B-4CC9-9BE3-821E07F56FD4}|NetCoreMVCLab03.csproj|solutionrelative:views\\home1\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE977D1-281B-4CC9-9BE3-821E07F56FD4}|NetCoreMVCLab03.csproj|e:\\netcoremvclab03\\views\\home1\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FAE977D1-281B-4CC9-9BE3-821E07F56FD4}|NetCoreMVCLab03.csproj|solutionrelative:views\\home1\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE977D1-281B-4CC9-9BE3-821E07F56FD4}|NetCoreMVCLab03.csproj|e:\\netcoremvclab03\\models\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE977D1-281B-4CC9-9BE3-821E07F56FD4}|NetCoreMVCLab03.csproj|solutionrelative:models\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE977D1-281B-4CC9-9BE3-821E07F56FD4}|NetCoreMVCLab03.csproj|e:\\netcoremvclab03\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FAE977D1-281B-4CC9-9BE3-821E07F56FD4}|NetCoreMVCLab03.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE977D1-281B-4CC9-9BE3-821E07F56FD4}|NetCoreMVCLab03.csproj|e:\\netcoremvclab03\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FAE977D1-281B-4CC9-9BE3-821E07F56FD4}|NetCoreMVCLab03.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "E:\\NetCoreMVCLab03\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "E:\\NetCoreMVCLab03\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T11:21:58.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\NetCoreMVCLab03\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\NetCoreMVCLab03\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T10:41:36.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\NetCoreMVCLab03\\Views\\Home1\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home1\\Index.cshtml",
+              "ToolTip": "E:\\NetCoreMVCLab03\\Views\\Home1\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home1\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T11:19:41.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\NetCoreMVCLab03\\Views\\Home1\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home1\\Create.cshtml",
+              "ToolTip": "E:\\NetCoreMVCLab03\\Views\\Home1\\Create.cshtml",
+              "RelativeToolTip": "Views\\Home1\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T11:18:53.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\NetCoreMVCLab03\\Views\\Home1\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home1\\Edit.cshtml",
+              "ToolTip": "E:\\NetCoreMVCLab03\\Views\\Home1\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Home1\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T11:16:51.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\NetCoreMVCLab03\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\NetCoreMVCLab03\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T11:05:44.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "My_Layout.cshtml",
+              "DocumentMoniker": "E:\\NetCoreMVCLab03\\Views\\Shared\\My_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\My_Layout.cshtml",
+              "ToolTip": "E:\\NetCoreMVCLab03\\Views\\Shared\\My_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\My_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T10:44:01.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "E:\\NetCoreMVCLab03\\Views\\Shared\\Components\\Home\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\Home\\Default.cshtml",
+              "ToolTip": "E:\\NetCoreMVCLab03\\Views\\Shared\\Components\\Home\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\Home\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T10:21:44.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeViewComponent.cs",
+              "DocumentMoniker": "E:\\NetCoreMVCLab03\\Views\\ViewComponents\\HomeViewComponent.cs",
+              "RelativeDocumentMoniker": "Views\\ViewComponents\\HomeViewComponent.cs",
+              "ToolTip": "E:\\NetCoreMVCLab03\\Views\\ViewComponents\\HomeViewComponent.cs",
+              "RelativeToolTip": "Views\\ViewComponents\\HomeViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T10:15:31.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PopularHome.cshtml",
+              "DocumentMoniker": "E:\\NetCoreMVCLab03\\Views\\Home1\\PopularHome.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home1\\PopularHome.cshtml",
+              "ToolTip": "E:\\NetCoreMVCLab03\\Views\\Home1\\PopularHome.cshtml",
+              "RelativeToolTip": "Views\\Home1\\PopularHome.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T09:56:10.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\NetCoreMVCLab03\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\NetCoreMVCLab03\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T09:47:10.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Banner.cshtml",
+              "DocumentMoniker": "E:\\NetCoreMVCLab03\\Views\\Shared\\Banner.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Banner.cshtml",
+              "ToolTip": "E:\\NetCoreMVCLab03\\Views\\Shared\\Banner.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Banner.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T09:45:34.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Home.cs",
+              "DocumentMoniker": "E:\\NetCoreMVCLab03\\Models\\Home.cs",
+              "RelativeDocumentMoniker": "Models\\Home.cs",
+              "ToolTip": "E:\\NetCoreMVCLab03\\Models\\Home.cs",
+              "RelativeToolTip": "Models\\Home.cs",
+              "ViewState": "AgIAAAkAAAAAsAP9m+nBvxMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T08:10:41.09Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

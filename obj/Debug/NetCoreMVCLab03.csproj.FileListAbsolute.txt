@@ -1,0 +1,2 @@
+E:\NetCoreMVCLab03\obj\Debug\NetCoreMVCLab03.csproj.AssemblyReference.cache
+E:\NetCoreMVCLab03\obj\Debug\NetCoreMVCLab03.csproj.CoreCompileInputs.cache
