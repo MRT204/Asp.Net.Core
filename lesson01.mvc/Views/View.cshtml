@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "Trang chủ";
+    var names = ViewData["Names"] as List<string>;
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<p>@ViewData["Message"]</p>
+<p>Ngày hiện tại: @ViewData["Date"]</p>
+
+<h3>Danh sách tên:</h3>
+<ul>
+    @if (names != null)
+    {
+        foreach (var name in names)
+        {
+            <li>@name</li>
+        }
+    }
+    else
+    {
+        <li>Không có dữ liệu</li>
+    }
+</ul>

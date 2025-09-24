@@ -1,0 +1,25 @@
+﻿
+<h2>DANH SÁCH SẢN PHẨM</h2>
+<table class="table table-bordered">
+	<thead>
+		<tr>
+			<td>Mã Sản Phẩm</td>
+			<td>Tên Sản Phẩm</td>
+			<td>Năm Sản Xuất</td>
+			<td>Gía</td>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var p in viewBag.Products)
+		{
+			<tr>
+				<td>@p.ProductId</td>
+				<td>@p.ProductName</td>
+				<td>@p.YearRelease</td>
+				<td>$ @p.Price</td>
+			</tr>
+		}
+	</tbody>
+
+</table>
+

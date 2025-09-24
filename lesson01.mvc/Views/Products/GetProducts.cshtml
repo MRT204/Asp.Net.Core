@@ -1,0 +1,35 @@
+﻿@model lesson01.mvc.Models.Product
+
+@{
+    ViewData["Title"] = "Thông tin sản phẩm";
+}
+
+<h1 class="text-primary">@ViewData["Title"]</h1>
+
+@if (Model != null)
+{
+    <table class="table table-bordered">
+        <tr>
+            <th>Mã sản phẩm</th>
+            <td>@Model.ProductId</td>
+        </tr>
+        <tr>
+            <th>Tên sản phẩm</th>
+            <td>@Model.ProductName</td>
+        </tr>
+        <tr>
+            <th>Năm phát hành</th>
+            <td>@Model.YearRelease</td>
+        </tr>
+        <tr>
+            <th>Giá</th>
+            <td>@Model.Price.ToString("N2") VNĐ</td>
+        </tr>
+    </table>
+}
+else
+{
+    <div class="alert alert-warning">
+        Không có dữ liệu sản phẩm để hiển thị.
+    </div>
+}

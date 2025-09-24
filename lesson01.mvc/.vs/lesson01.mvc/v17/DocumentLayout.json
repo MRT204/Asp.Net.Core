@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "E:\\lesson01.mvc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D47C3CB4-4DF9-46D9-80EE-548590D44A9A}|lesson01.mvc.csproj|e:\\lesson01.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D47C3CB4-4DF9-46D9-80EE-548590D44A9A}|lesson01.mvc.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D47C3CB4-4DF9-46D9-80EE-548590D44A9A}|lesson01.mvc.csproj|e:\\lesson01.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D47C3CB4-4DF9-46D9-80EE-548590D44A9A}|lesson01.mvc.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D47C3CB4-4DF9-46D9-80EE-548590D44A9A}|lesson01.mvc.csproj|e:\\lesson01.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D47C3CB4-4DF9-46D9-80EE-548590D44A9A}|lesson01.mvc.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D47C3CB4-4DF9-46D9-80EE-548590D44A9A}|lesson01.mvc.csproj|e:\\lesson01.mvc\\views\\partialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D47C3CB4-4DF9-46D9-80EE-548590D44A9A}|lesson01.mvc.csproj|solutionrelative:views\\partialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47C3CB4-4DF9-46D9-80EE-548590D44A9A}|lesson01.mvc.csproj|e:\\lesson01.mvc\\views\\shared\\components\\category\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D47C3CB4-4DF9-46D9-80EE-548590D44A9A}|lesson01.mvc.csproj|solutionrelative:views\\shared\\components\\category\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47C3CB4-4DF9-46D9-80EE-548590D44A9A}|lesson01.mvc.csproj|e:\\lesson01.mvc\\views\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D47C3CB4-4DF9-46D9-80EE-548590D44A9A}|lesson01.mvc.csproj|solutionrelative:views\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47C3CB4-4DF9-46D9-80EE-548590D44A9A}|lesson01.mvc.csproj|e:\\lesson01.mvc\\views\\products\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D47C3CB4-4DF9-46D9-80EE-548590D44A9A}|lesson01.mvc.csproj|solutionrelative:views\\products\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47C3CB4-4DF9-46D9-80EE-548590D44A9A}|lesson01.mvc.csproj|e:\\lesson01.mvc\\views\\products\\getproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D47C3CB4-4DF9-46D9-80EE-548590D44A9A}|lesson01.mvc.csproj|solutionrelative:views\\products\\getproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D47C3CB4-4DF9-46D9-80EE-548590D44A9A}|lesson01.mvc.csproj|e:\\lesson01.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,37 +38,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "E:\\lesson01.mvc\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "E:\\lesson01.mvc\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T08:12:21.642Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\lesson01.mvc\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "E:\\lesson01.mvc\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\lesson01.mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\lesson01.mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-17T08:08:01.458Z",
+              "WhenOpened": "2025-09-22T12:56:54.636Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "E:\\lesson01.mvc\\Views\\Shared\\Components\\Category\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\Category\\Default.cshtml",
+              "ToolTip": "E:\\lesson01.mvc\\Views\\Shared\\Components\\Category\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\Category\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T12:52:48.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PartialView.cshtml",
+              "DocumentMoniker": "E:\\lesson01.mvc\\Views\\PartialView.cshtml",
+              "RelativeDocumentMoniker": "Views\\PartialView.cshtml",
+              "ToolTip": "E:\\lesson01.mvc\\Views\\PartialView.cshtml",
+              "RelativeToolTip": "Views\\PartialView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T12:37:18.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\lesson01.mvc\\Views\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Index.cshtml",
+              "ToolTip": "E:\\lesson01.mvc\\Views\\Index.cshtml",
+              "RelativeToolTip": "Views\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T12:32:22.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cshtml",
+              "DocumentMoniker": "E:\\lesson01.mvc\\Views\\Products\\Product.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Product.cshtml",
+              "ToolTip": "E:\\lesson01.mvc\\Views\\Products\\Product.cshtml",
+              "RelativeToolTip": "Views\\Products\\Product.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T12:00:58.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetProducts.cshtml",
+              "DocumentMoniker": "E:\\lesson01.mvc\\Views\\Products\\GetProducts.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\GetProducts.cshtml",
+              "ToolTip": "E:\\lesson01.mvc\\Views\\Products\\GetProducts.cshtml",
+              "RelativeToolTip": "Views\\Products\\GetProducts.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T11:54:51.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\lesson01.mvc\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -60,8 +128,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T08:05:16.057Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-17T08:05:16.057Z"
             }
           ]
         }
